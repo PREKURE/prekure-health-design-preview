@@ -1,0 +1,4 @@
+:HL["/prekure-health-design-preview/_next/static/chunks/36ud83j7nhyva.css","style"]
+:HC["/",""]
+:HL["/prekure-health-design-preview/brand/prekure-text-logo-purple.svg","image"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"demo","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"rwGqQYsBbbkiEAV8q3eUK"}
