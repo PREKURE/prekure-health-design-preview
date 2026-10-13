@@ -1,2 +1,2 @@
-:HL["/prekure-health-design-preview/_next/static/chunks/32ayv2zxqnsa8.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"zIJpN7YZDq4JhHnjj6TYf"}
+:HL["/prekure-health-design-preview/_next/static/chunks/0bcw8b7r1aqwu.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}},"staleTime":300,"buildId":"ksZj0jy9i24Ag1lhYyOZ5"}
