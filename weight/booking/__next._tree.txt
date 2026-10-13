@@ -3,4 +3,4 @@
 :HL["/prekure-health-design-preview/_next/static/chunks/37bpz_hbdtdzf.css","style"]
 :HL["/prekure-health-design-preview/weight/prekure-text-logo-purple.svg","image"]
 :HL["/prekure-health-design-preview/weight/prekure-text-logo-white.svg","image"]
-0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"campaign","param":{"type":"d","key":"weight","siblings":["demo","intake-draft","weight"]},"prefetchHints":4192,"slots":{"children":{"name":"screen","param":{"type":"oc","key":"booking","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"n3YJFdu5Pw-iTgdAWKbb6"}
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"campaign","param":{"type":"d","key":"weight","siblings":["demo","intake-draft","weight"]},"prefetchHints":4192,"slots":{"children":{"name":"screen","param":{"type":"oc","key":"booking","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"3wO-yEpfOW5e4OozUbMA9"}
